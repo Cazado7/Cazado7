@@ -1,4 +1,5 @@
-![Banner for Twitter Oficial](https://user-images.githubusercontent.com/50896472/160293607-7bf1abbe-4625-4506-802e-8801483f487a.png)
+![Banner for Twitter Oficial](https://user-images.githubusercontent.com/50896472/160293780-72fa7d1d-465e-429a-8e6e-e74cbf910cfe.jpg)
+
 
 <!--
 **Cazado7/Cazado7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
