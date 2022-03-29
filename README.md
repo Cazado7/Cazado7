@@ -1,4 +1,5 @@
-![Banner for Twitter Oficial](https://user-images.githubusercontent.com/50896472/160293780-72fa7d1d-465e-429a-8e6e-e74cbf910cfe.jpg)
+![Banner for Twitter Oficial](https://user-images.githubusercontent.com/50896472/160531409-e4500ffb-80ff-4c2d-ad03-31f84608f99e.png)
+
 
 
 <!--
