@@ -1,6 +1,9 @@
 ![Banner for Twitter Oficial](https://user-images.githubusercontent.com/50896472/160531409-e4500ffb-80ff-4c2d-ad03-31f84608f99e.png)
 
-
+💻Software Developer
+🎬Content Creator
+🌐Web Developer
+📲iOS & Android Engineer
 
 <!--
 **Cazado7/Cazado7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
